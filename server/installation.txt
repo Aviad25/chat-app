@@ -1,0 +1,17 @@
+
+for server :
+
+"npm init" >> package jason dafault
+
+"npm i express mongoose nodemon socket.io bcrypt cors dotenv" 
+
+insert on package json under scripts :
+
+"start": "nodemon index.js"
+
+to restart the server every time we save and changes accurs 
+
+
+
+
+
